@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Oasisdex Blocked-unblocked" verbose="1" >
+  <test name="Regression suite 1" >
+    <classes>
+      <class name="com.oasisdex.testscript.OasisdexUnblockedTest"/>
+
+    </classes>
+ </test>
+</suite>
