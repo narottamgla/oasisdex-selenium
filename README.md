@@ -1,5 +1,5 @@
 # "Oasisdex" with Chrome extension "MetaMask"
-This project is an example of how to User Chrome extension MetaMask with selenium
+This project is an example of how to Use Chrome extension MetaMask with selenium
 
 ## Project Description:
 * Project setup with Selenium WebDriver 3.11.0 and windows 10
